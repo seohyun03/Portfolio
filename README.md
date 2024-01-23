@@ -4,7 +4,8 @@
 
 한양대학교 비즈니스인포매틱스 석사 (2021.09 - 2023.08)
 
-
+<br/>
+<br/>
 
 
 ## :round_pushpin: 1. 논문
@@ -12,12 +13,16 @@
 - <석사논문 연구> UI 디자인에 대한 사용자평가 예측 연구
 - <preprint> Analysis of Sentiment Analysis Research Trends using Text Mining
 
+<br/>
+<br/>
 
 ## :round_pushpin: 2. Project
 - KT 골목경제 부활 프로젝트 2022.10 - 2023.01
 - 제 2회 K-인공지능 제조데이터 분석 경진대회 우수상 수상 : 결합 사전 대응을 위한 품질 오류 예지 분석 모델 GLA-3 개발
 - 거래량 예측을 통한 유망 기업 선정 모델 개발 2022.06 - 2022.07
 
+<br/>
+<br/>
 
 ## :round_pushpin: 3. Hackathon
 - 여행 상품 신청 여부 예측 경진대회 상위 7% 달성 (187위 -> public 74위, private 38위/603)
