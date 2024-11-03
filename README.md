@@ -15,7 +15,7 @@ Journal of the Korean Operations Research and Management Science Society 48.3(20
 <br/>
 <br/>
 
-## :round_pushpin: 2. Project - Due to security concerns, only partial code will be uploaded
+## :round_pushpin: 2. Project - Due to security concerns, only partial code has been uploaded
 - Analysis of Sentiment Analysis Research Trends using Text Mining
 - Quality Error Prediction Analysis Model for Defect Prevention  
 - Development of a Model for Selecting Promising Companies through Volume Prediction 2022.06 - 2022.07
