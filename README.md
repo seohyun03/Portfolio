@@ -1,7 +1,7 @@
 # Portfolio
 <br>
 <br>
-Hanyang University, Master of Science in Business Informatics (Seoul, South Korea) | 2021.09 - 2023.08
+Hanyang University, Master of Science in Business Informatics (Seoul, South Korea) | 2021.09 - 2023.08<br>
 Myongji University, Bachelor of Library Science (Seoul, South Korea) | 2014.03 - 2019.08
 <br/>
 <br/>
