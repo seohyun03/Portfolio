@@ -1,5 +1,5 @@
 # Portfolio
-Personal Website: https://seohyun03.github.io/seohyun03/ <br>
+<br>
 <br>
 Hanyang University, Master of Science in Business Informatics (Seoul, South Korea) | 2021.09 - 2023.08
 Myongji University, Bachelor of Library Science (Seoul, South Korea) | 2014.03 - 2019.08
